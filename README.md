@@ -1,1 +1,5 @@
 # Exploring-volatility-in-crop-prices-for-farmers-benefit-a-time-series-project
+
+Farming in India is a risky business. Risk is of many types, such as rainfall, bad effects due to pests, diseases, and low prices. This paper mainly focuses on price variation. We suggest possible actions to individual farmers to avoid low prices for their produce. Advice includes a ranking of months based on the FLAP index for sowing potatoes and forecasting prices for potato, banana, and spinach prices using models such as ARIMA, exponential smoothing, and advanced models such as LSTM and SVM and their additive and multiplicative combinations namely, Additive-ETS-SVM, Additive-ETS-LSTM, Multiplicative-ARIMA-SVM, Multiplicative-ARIMA-LSTM, Multiplicative-ETS-SVM, and Multiplicative-ETS-LSTM. 
+We also provide a choice of locations where they can get a more price, and we provide these locations for every month, and they too are based on the FLAP index. The purpose is that a farmer can avoid losses by taking the produce to the market at the right time. We also observe the contagion effect, how the shock to one market affects other markets.
+
